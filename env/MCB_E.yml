@@ -1,7 +1,6 @@
 name: MCB_E
 channels:
   - defaults
-  - python=3.12
 dependencies:
   - anaconda-anon-usage=0.7.2
   - anaconda-auth=0.8.6
